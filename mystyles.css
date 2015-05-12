@@ -1,9 +1,13 @@
 body {
 	font-family: sans-serif;
-	background: http://images.wikia.com/adventuretimewithfinnandjake/images/3/3a/S1e1_flip_out.png;
+	background: white url(http://images.wikia.com/adventuretimewithfinnandjake/images/3/3a/S1e1_flip_out.png) repeat top right;
+	background-size: 250px, 250px;
 }
 h1 {
 	color: red;
+}
+h2 {
+	background: white url(http://www.ledr.com/colours/white.jpg)
 }
 span {
 	border-style: solid;
@@ -11,4 +15,5 @@ span {
 }
 p {
 	margin: 20px;
+	background: white url(http://www.ledr.com/colours/white.jpg);
 }
